@@ -20,4 +20,4 @@ The purpose of this project is to complete an election audit for the Colorado Bo
 
 ## Results
 
-### - Total Vote
+- Total Vote
