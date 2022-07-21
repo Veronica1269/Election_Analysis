@@ -79,5 +79,3 @@ In this election audit, we analyzed the total votes for each candidate and the t
 To be better adapted for any election outcome, the relation between candidates and counties should be explored as well. In addition to the winning candidatein the election, the script can be modified to determine the winning candidate in each county as well. It can also be modified to make a breakdown of the number of votes and the percentage of the total votes each candidate received in each county.
 
 
-
-
