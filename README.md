@@ -41,7 +41,7 @@ The number of total votes is counted by a for loop go through each row in the "e
 
 The votes for each county are determined using a if statement as following:
 
-
+![Total_Votes](Resources/Total_Votes.png)
 
 
 
