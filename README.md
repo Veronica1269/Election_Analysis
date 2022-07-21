@@ -30,7 +30,6 @@ The purpose of this project is to complete an election audit for the Colorado Bo
 
 The number of total votes is counted by a for loop go through each row in the "election-results.csv" file:
 
-![Total_Votes](Resources/Total_Votes.png)
 
 
 
@@ -42,7 +41,7 @@ The number of total votes is counted by a for loop go through each row in the "e
 
 The votes for each county are determined using a if statement as following:
 
-![County_Vote_Count](Resources/County_Vote_Count.png)
+
 
 
 
@@ -51,7 +50,7 @@ The votes for each county are determined using a if statement as following:
  
 The percentage of each county is calculated by the following equation:
  
-![County_Vote_Percentage](Resources/County_Vote_Percentage.png)
+
 
 
 
@@ -63,7 +62,6 @@ The percentage of each county is calculated by the following equation:
 
 The votes for each candidate are counted by the same method as the votes for each county. The name of three candidates are extracted using a if statement:
 
-![Candidate_Options](Resources/Candidate_Options.png)
 
 
 
@@ -72,7 +70,7 @@ The votes for each candidate are counted by the same method as the votes for eac
 
 The winning candidate's name and results is saved into text file as below:
 
-![Winner](Resources/Winner.png)
+
 
 
 
